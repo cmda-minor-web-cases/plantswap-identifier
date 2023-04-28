@@ -11,7 +11,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-Bij Buurtcampus staat sinds kort een stekjesbieb. Buurtbewoners kunnen stekjes halen uit de stekjesbieb, maar ook stekjes brengen naar de stekjesbieb. De stekjesbieb dient als middel om buurtbewoners met elkaar te verbinden. Daarnaast leren bewoners hoe ze op een duurzame manier met planten kunnen omgaan en draagt het bij aan een gezondere leefomgeving in huis.
+Bij Buurtcampus Oost staat sinds kort een stekjesbieb. Buurtbewoners kunnen stekjes halen uit de stekjesbieb, maar ook stekjes brengen naar de stekjesbieb. De stekjesbieb dient als middel om buurtbewoners met elkaar te verbinden. Daarnaast leren bewoners hoe ze op een duurzame manier met planten kunnen omgaan en draagt het bij aan een gezondere leefomgeving in huis.
 
 ## Opdrachtgever
 Buurtcampus Oost  
