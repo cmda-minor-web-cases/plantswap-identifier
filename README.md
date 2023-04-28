@@ -17,6 +17,8 @@ Bij Buurtcampus staat sinds kort een stekjesbieb. Buurtbewoners kunnen stekjes h
 Buurtcampus Oost  
 Product owner: Mariska Gunsing
 
+De Buurtcampus is een dynamische, laagdrempelige plek waar iedereen zich welkom en uitgenodigd voelt om kennis op te doen, te ontwikkelen en te delen. Met als doel: samen de buurt duurzamer, gezonder en inclusiever maken.
+
 ## Design challenge
 Voor de, binnenkort te lanceren, PlantSwap website moet een Plant Identifier functionaliteit ontworpen en gebouwd worden. Hiermee kunnen de gebruikers van de website meer informatie vinden over de stekjes die worden gebracht of gehaald.
 
